@@ -1,1 +1,5 @@
 *.csv
+Terraform/.terraform.lock.hcl
+Terraform/.terraform/*
+Terraform/.~lock.users.csv#
+Terraform/terraform.tfstate
